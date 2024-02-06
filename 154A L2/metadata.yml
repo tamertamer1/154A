@@ -1,0 +1,14 @@
+---
+:id: 204673492
+:submitters:
+- :name: MORA MARCO ANTONIO
+  :email: marco_mora@umail.ucsb.edu
+- :name: TAMER TAMER RALPH
+  :email: ttamer@umail.ucsb.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-10-20 21:15:38.382968000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-10-20 14:15:38.382968000 Z
+:status: processed
+:score: 50.0
